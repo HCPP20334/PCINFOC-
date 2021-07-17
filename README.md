@@ -1,0 +1,2 @@
+# PCINFOC-
+pc info c++
